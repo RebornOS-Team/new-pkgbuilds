@@ -1,0 +1,82 @@
+##### Retired mirrors #####
+
+##### Start Sourceforge mirrors #####
+# Sourceforge 1
+Server = http://razaoinfo.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 2
+Server = http://versaweb.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 3
+Server = http://phoenixnap.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 4
+Server = http://newcontinuum.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 5
+Server = http://downloads.sourceforge.net/rebornos/r/RebornOS/
+
+# Sourceforge 6
+Server = http://cfhcable.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 7
+Server = http://astuteinternet.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 8
+Server = http://vorboss.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 9
+Server = http://freefr.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 10
+Server = http://netcologne.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS
+
+# Sourceforge 11
+Server = http://netix.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 12
+Server = http://excellmedia.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 13
+Server = http://liquidtelecom.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 14
+Server = https://jztkft.dl.sourceforge.net/project/rebornos/r/RebornOS/
+
+# Sourceforge 15
+Server = http://sourceforge.mirror.iweb.com/project/rebornos/r/RebornOS/
+
+# Sourceforge 16
+Server = https://deac-riga.dl.sourceforge.net/project/rebornos/r/RebornOS/
+
+# Sourceforge 17
+Server =  http://tenet.dl.sourceforge.net/project/rebornos/r/RebornOS/
+
+# Sourceforge 18
+Server = https://nchc.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 19
+Server = https://kent.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+
+# Sourceforge 20
+Server = https://jaist.dl.sourceforge.net/sourceforge/rebornos/r/RebornOS/
+##### End Sourceforge mirrors #####
+
+
+
+
+##### Mirrors with errors #####
+
+#########################################
+# Mirrors with Mirror with old versions #
+#########################################
+
+
+
+
+########################
+# Mirrors with errors: #
+########################
+
+# The folder does not currently exist:
+# Server = https://mirrors.tuna.tsinghua.edu.cn/osdn/storage/g/r/re/rebornos/repo/RebornOS/

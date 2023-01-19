@@ -1,0 +1,16 @@
+#
+# These things are run when an Openbox X Session is started.
+# You may place a similar script in $HOME/.config/openbox/autostart
+# to run user-specific things.
+#
+# You can set picom to use either xrender or glx
+# Change if issues
+#autorandr horizontal
+
+
+# Set background image
+nitrogen --restore
+# Panel
+tint2 &
+## Volume control for systray
+volumeicon &
