@@ -1,0 +1,12 @@
+[submodule "nvidia-390xx-utils"]
+	path = nvidia-390xx-utils
+	url = https://gitlab.com/herecura/packages/nvidia-390xx-utils.git
+[submodule "nvidia-390xx-dkms"]
+	path = nvidia-390xx-dkms
+	url = https://gitlab.com/herecura/packages/nvidia-390xx-dkms.git
+[submodule "nvidia-470xx-dkms"]
+	path = nvidia-470xx-dkms
+	url = https://gitlab.com/herecura/packages/nvidia-470xx-dkms.git
+[submodule "nvidia-470xx-utils"]
+	path = nvidia-470xx-utils
+	url = https://gitlab.com/herecura/packages/nvidia-470xx-utils.git
